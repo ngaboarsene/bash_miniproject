@@ -1,11 +1,11 @@
-# Bash Mini-Project: Genomic Data Analysis
+JT# Bash Mini-Project: Genomic Data Analysis
 
 ## Student Information
-**Name**: [TODO: Your full name]
-**Student ID**: [TODO: Your student ID]
+**Name**: [TODO: NGABO BAGALWA ARSENE]
+**Student ID**: [TODO: MB300-0008/2024]
 **Course**: PUB 3127 - Computing for Biologists
-**Date Started**: [TODO: Date you started the project]
-**Date Completed**: [TODO: Date you completed the project]
+**Date Started**: [TODO: 25/11/2025]
+**Date Completed**: [TODO: 26/11/2025]
 
 ---
 
