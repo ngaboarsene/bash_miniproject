@@ -1,0 +1,4 @@
+The total number of sequences in the FASTA file is: 35079
+The number of high quality scaffolds among the sequences is: 66
+The number of protein entries in the database is: 890
+Fri Dec  5 16:28:52 EAT 2025
